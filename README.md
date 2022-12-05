@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksinghpabhakar" alt="ksinghpabhakar" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full Stack Web 3.0**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **kprabhakar394@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I'm verry frank with my team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
